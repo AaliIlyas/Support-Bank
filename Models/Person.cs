@@ -13,7 +13,7 @@ namespace Support_Bank.Models
         public Person(string name, List<Transaction> transactions)
         {
             Name = name;
-
+ 
             var filteredTransactions = transactions.Where(transaction => transaction.From == Name || transaction.To == Name).ToList();
 
             Transactions = filteredTransactions;
