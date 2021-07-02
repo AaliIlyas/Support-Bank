@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        }
+      },
       "Microsoft.Extensions.PlatformAbstractions/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -1668,6 +1677,18 @@
     }
   },
   "libraries": {
+    "Json.Net/1.0.33": {
+      "sha512": "5tE+db6BqhRAvITIVBeRsQorLGshPExfm4FmMRvWWAfs4RxeTbFFj2PIEybwmMW0qR30HKkXDYhq0YkDK2Jtxw==",
+      "type": "package",
+      "path": "json.net/1.0.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "json.net.1.0.33.nupkg.sha512",
+        "json.net.nuspec",
+        "lib/netstandard2.0/Json.Net.dll"
+      ]
+    },
     "Microsoft.Extensions.PlatformAbstractions/1.0.0": {
       "sha512": "zyjUzrOmuevOAJpIo3Mt5GmpALVYCVdLZ99keMbmCxxgQH7oxzU58kGHzE6hAgYEiWsdfMJLjVR7r+vSmaJmtg==",
       "type": "package",
@@ -5908,6 +5929,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Json.Net >= 1.0.33",
       "NLog >= 5.0.0-beta11"
     ]
   },
@@ -5917,9 +5939,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\OOP C#\\Support Bank\\SUPPORT BANK FINAL.csproj",
-      "projectName": "SUPPORT BANK FINAL",
-      "projectPath": "C:\\Training\\OOP C#\\Support Bank\\SUPPORT BANK FINAL.csproj",
+      "projectUniqueName": "C:\\Training\\OOP C#\\Support Bank\\Support_Bank.csproj",
+      "projectName": "Support_Bank",
+      "projectPath": "C:\\Training\\OOP C#\\Support Bank\\Support_Bank.csproj",
       "packagesPath": "C:\\Users\\ilyali\\.nuget\\packages\\",
       "outputPath": "C:\\Training\\OOP C#\\Support Bank\\obj\\",
       "projectStyle": "PackageReference",
@@ -5950,6 +5972,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Json.Net": {
+            "target": "Package",
+            "version": "[1.0.33, )"
+          },
           "NLog": {
             "target": "Package",
             "version": "[5.0.0-beta11, )"

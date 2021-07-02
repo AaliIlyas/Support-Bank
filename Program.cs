@@ -21,24 +21,29 @@ namespace SupportBank
             config.AddTarget("File Logger", target);
             config.LoggingRules.Add(new LoggingRule("*", LogLevel.Debug, target));
             LogManager.Configuration = config;
-            var transactions = FileParser.GetTransactions("./support-bank-resources/DodgyTransactions2015.csv");
 
-            GetTotalCreditsAndDebits();
+            Logger.Debug($"Parsing started {DateTime.Now.ToString("h:mm:ss tt")}.");
+            var transactions = FileParser.GetTransactions("./support-bank-resources/Transactions2014.csv");
+            Logger.Debug($"Parsing ended {DateTime.Now.ToString("h:mm:ss tt")}");
 
-            var (name, statement, summary) = getUserResponses.PromptUser();
+            GetTotalCreditsAndDebits(transactions);
+                 
+            var (name, statement, summary) = ConsoleHelper.GetUserResponses();
 
             var person = new Person(name, transactions);
 
             if (statement)
             {
-                foreach (var t in person.Transactions)
+                Logger.Info("User has opted to see their own Statement. Printing to console.");
+                foreach (var transaction in person.Transactions)
                 {
-                    Console.WriteLine($"Date: {t.Date}, from: {t.From}, to: {t.To}, reason: {t.Narrative}, amount: {t.Amount.ToString("C")}");
+                    Console.WriteLine($"Date: {transaction.Date}, from: {transaction.From}, to: {transaction.To}, reason: {transaction.Narrative}, amount: {transaction.Amount.ToString("C")}");
                 }
             }
 
             if (summary)
             {
+                Logger.Info("User has opted to see their own Debits and Credits. Printing to console.");
                 if (statement)
                 {
                     Console.WriteLine("----------------------------------");
@@ -48,36 +53,40 @@ namespace SupportBank
                     Console.WriteLine(entry.Key + ": " + entry.Value.ToString("C"));
                 }
             }
+            Logger.Info($"Program ending {DateTime.Now.ToString("h:mm:ss tt")}");
+        }
 
-            void GetTotalCreditsAndDebits()
+        private static void GetTotalCreditsAndDebits(List<Transaction> transactions)
+        {
+            Logger.Info($"In {System.Reflection.MethodBase.GetCurrentMethod().Name}! It's {DateTime.Now.ToString("h:mm:ss tt")}.");
+            Console.Write("Would you like the totals of what everyone owes or is owed? (y/n) ");
+            var totalOwes = Console.ReadLine() == "y";
+
+            if (totalOwes)
+            Logger.Info("User has opted to see everyone's Debits and Credits. Printing to console.");
             {
-                Console.Write("Would you like the totals of what everyone owes or is owed? (y/n) ");
-                var totalOwes = Console.ReadLine() == "y";
+                var allNames = new List<string>();
 
-                if (totalOwes)
+                foreach (var transaction in transactions)
                 {
-                    var allNames = new List<string>();
-
-                    foreach (var transaction in transactions)
+                    if (!allNames.Contains(transaction.From))
                     {
-                        if (!allNames.Contains(transaction.From))
-                        {
-                            allNames.Add(transaction.From);
-                        }
-
-                        if (!allNames.Contains(transaction.To))
-                        {
-                            allNames.Add(transaction.To);
-                        }
+                        allNames.Add(transaction.From);
                     }
 
-                    foreach (var personName in allNames)
+                    if (!allNames.Contains(transaction.To))
                     {
-                        var p = new Person(personName, transactions);
-                        Console.WriteLine(p.Name + ": owes " + p.Credit.ToString("C") + ", is owed: " + p.Debt.ToString("C"));
+                        allNames.Add(transaction.To);
                     }
                 }
+
+                foreach (var personName in allNames)
+                {
+                    var p = new Person(personName, transactions);
+                    Console.WriteLine(p.Name + ": owes " + p.Credit.ToString("C") + ", is owed: " + p.Debt.ToString("C"));
+                }
             }
+            Logger.Info($"Leaving {System.Reflection.MethodBase.GetCurrentMethod().Name}! It's {DateTime.Now.ToString("h:mm:ss tt")}");
         }
     }
 }

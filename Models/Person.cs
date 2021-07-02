@@ -1,10 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using NLog;
 
 namespace Support_Bank.Models
 {
     internal class Person
     {
+        private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         public string Name { get; }
         public List<Transaction> Transactions { get; }
         public Dictionary<string, double> DebitsAndCreditsReport { get; }
@@ -12,6 +14,7 @@ namespace Support_Bank.Models
         public double Debt { get; private set; }
         public Person(string name, List<Transaction> transactions)
         {
+                
             Name = name;
  
             var filteredTransactions = transactions.Where(transaction => transaction.From == Name || transaction.To == Name).ToList();

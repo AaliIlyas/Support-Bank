@@ -52,3 +52,27 @@ C:\Training\OOP C#\Support Bank VS\Support Bank current\obj\Debug\net5.0\Support
 C:\Training\OOP C#\Support Bank VS\Support Bank current\obj\Debug\net5.0\ref\Support_Bank.dll
 C:\Training\OOP C#\Support Bank VS\Support Bank current\obj\Debug\net5.0\Support_Bank.pdb
 C:\Training\OOP C#\Support Bank VS\Support Bank current\obj\Debug\net5.0\Support_Bank.genruntimeconfig.cache
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Support_Bank.exe
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Support_Bank.deps.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Support_Bank.runtimeconfig.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Support_Bank.runtimeconfig.dev.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Support_Bank.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\ref\Support_Bank.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Support_Bank.pdb
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Json.Net.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\NLog.dll
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.csproj.AssemblyReference.cache
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.AssemblyInfoInputs.cache
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.AssemblyInfo.cs
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.csproj.CoreCompileInputs.cache
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.csproj.CopyComplete
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.dll
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\ref\Support_Bank.dll
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.pdb
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\Support_Bank.genruntimeconfig.cache
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\DodgyTransactions2015.csv
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2012.xml
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2013.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2014.csv

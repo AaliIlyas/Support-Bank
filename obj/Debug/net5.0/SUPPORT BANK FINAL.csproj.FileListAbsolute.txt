@@ -36,3 +36,4 @@ C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.dll
 C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\ref\SUPPORT BANK FINAL.dll
 C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.pdb
 C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.genruntimeconfig.cache
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Json.Net.dll

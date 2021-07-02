@@ -48,3 +48,1055 @@
 2021-07-01 23:41:10.7005 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
 2021-07-01 23:41:48.2684 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
 2021-07-01 23:41:48.2857 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:18:08.2079 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:18:08.2403 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:18:08.2403 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:18:47.7151 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:18:47.7475 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:18:47.7475 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:25:21.2317 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2703 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2763 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:25:21.2915 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:26:43.9893 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:26:44.0213 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:26:44.0213 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:26:44.0213 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:34:48.9452 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 1
+2021-07-02 10:34:48.9691 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:34:48.9691 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:34:48.9787 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:34:48.9787 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:36:30.7033 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 1
+2021-07-02 10:36:30.7282 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:36:30.7350 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:36:30.7350 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:36:30.7350 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:37:17.8363 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 1 10:37:17 AM
+2021-07-02 10:37:17.8595 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:37:17.8595 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:37:17.8595 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:37:17.8595 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 10:38:01.8902 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 10:38:01 AM
+2021-07-02 10:38:01.9258 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 10:38:01.9329 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 10:38:01.9329 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 10:38:01.9329 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 11:00:41.8067 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 11:00:41 AM.
+2021-07-02 11:00:41.8398 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 11:00:41.8478 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 11:00:41.8478 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 11:00:41.8478 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 11:00:41.8478 Info - SupportBank.Program: Dear diary, I've just finished parsing the data file. Time for coffee!
+2021-07-02 11:00:41.8478 Info - SupportBank.Program: Going to get some inputs now, currently in GetTotalCreitsAndDebits method! It's 11:00:41 AM.
+2021-07-02 11:01:07.4061 Info - SupportBank.Program: Dear diary, time for me to do my thing! Logic time... Still in GetTotalCreitsAndDebits method
+2021-07-02 11:01:07.4061 Info - SupportBank.Program: Looping!
+2021-07-02 11:01:07.4061 Info - SupportBank.Program: Looping!
+2021-07-02 11:01:07.4364 Info - SupportBank.Program: Looping!
+2021-07-02 11:01:07.4364 Info - SupportBank.Program: Looping!
+2021-07-02 11:01:07.4364 Info - SupportBank.Program: Looping!
+2021-07-02 11:01:07.4364 Info - SupportBank.Program: Not logging a foreach loop again... Still in GetTotalCreitsAndDebits method about to loop to print records to screen
+2021-07-02 11:01:07.4364 Info - Support_Bank.Models.Person: Hello for .ctor
+2021-07-02 11:01:07.4571 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:01:07.4571 Info - Support_Bank.Models.Person: Hello for .ctor
+2021-07-02 11:01:07.4571 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:01:07.4571 Info - Support_Bank.Models.Person: Hello for .ctor
+2021-07-02 11:01:07.4571 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:01:07.4571 Info - Support_Bank.Models.Person: Hello for .ctor
+2021-07-02 11:01:07.4682 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:01:07.4682 Info - Support_Bank.Models.Person: Hello for .ctor
+2021-07-02 11:01:07.4682 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:01:07.4682 Info - SupportBank.Program: Going off to PromptUser for the information they want! No reason why I should do all the work! It's 11:01:07 AM.
+2021-07-02 11:01:41.8028 Info - Support_Bank.Models.getUserResponses: Currently in PromptUser Method! Got the responses just need to return them back to Main.
+2021-07-02 11:01:41.8028 Info - Support_Bank.Models.Person: Hello for .ctor
+2021-07-02 11:01:41.8028 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:08:46.4388 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 11:08:46 AM.
+2021-07-02 11:08:46.4690 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 11:08:46.4690 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 11:08:46.4690 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 11:08:46.4690 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 11:08:46.4690 Info - SupportBank.Program: Dear diary, I've just finished parsing the data file. Time for coffee!
+2021-07-02 11:08:46.4690 Info - SupportBank.Program: Going to get some inputs now, currently in GetTotalCreitsAndDebits method! It's 11:08:46 AM.
+2021-07-02 11:09:05.4763 Info - SupportBank.Program: Dear diary, time for me to do my thing! Logic time... Still in GetTotalCreitsAndDebits method
+2021-07-02 11:09:05.4763 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.4763 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.4763 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.4763 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.4995 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.4995 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.5148 Info - SupportBank.Program: Looping!
+2021-07-02 11:09:05.5148 Info - SupportBank.Program: Not logging a foreach loop again... Still in GetTotalCreitsAndDebits method about to loop to print records to screen
+2021-07-02 11:09:05.5148 Info - Support_Bank.Models.Person: Hello from Person
+2021-07-02 11:09:05.5148 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:09:05.5148 Info - Support_Bank.Models.Person: Hello from Person
+2021-07-02 11:09:05.5148 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:09:05.5301 Info - Support_Bank.Models.Person: Hello from Person
+2021-07-02 11:09:05.5301 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:09:05.5459 Info - Support_Bank.Models.Person: Hello from Person
+2021-07-02 11:09:05.5459 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:09:05.5459 Info - SupportBank.Program: Going off to PromptUser for the information they want! No reason why I should do all the work! It's 11:09:05 AM.
+2021-07-02 11:11:00.7188 Info - Support_Bank.Models.getUserResponses: Currently in PromptUser Method! Got the responses just need to return them back to Main.
+2021-07-02 11:11:00.7188 Info - Support_Bank.Models.Person: Hello from Person
+2021-07-02 11:11:00.7188 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:13:14.9787 Info - SupportBank.Program: Dear diary, it's the morning and I've been set to work. It's 11:13:14 AM.
+2021-07-02 11:13:15.0035 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 11:13:15.0035 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 11:13:15.0035 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 11:13:15.0035 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 11:13:15.0035 Info - SupportBank.Program: Dear diary, I've just finished parsing the data file. Time for coffee!
+2021-07-02 11:13:15.0035 Info - SupportBank.Program: Going to get some inputs now, currently in GetTotalCreitsAndDebits method! It's 11:13:15 AM.
+2021-07-02 11:13:18.4536 Info - SupportBank.Program: Dear diary, time for me to do my thing! Logic time... Still in GetTotalCreitsAndDebits method
+2021-07-02 11:13:18.4536 Info - SupportBank.Program: Looping!
+2021-07-02 11:13:18.4536 Info - SupportBank.Program: Looping!
+2021-07-02 11:13:18.4536 Info - SupportBank.Program: Looping!
+2021-07-02 11:13:18.4536 Info - SupportBank.Program: Looping!
+2021-07-02 11:13:18.4839 Info - SupportBank.Program: Looping!
+2021-07-02 11:13:18.4839 Info - SupportBank.Program: Looping!
+2021-07-02 11:13:18.4839 Info - SupportBank.Program: Not logging a foreach loop again... Still in GetTotalCreitsAndDebits method about to loop to print records to screen
+2021-07-02 11:13:18.4839 Info - Support_Bank.Models.Person: Hello from Class Person
+2021-07-02 11:13:18.4839 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:13:18.4839 Info - Support_Bank.Models.Person: Hello from Class Person
+2021-07-02 11:13:18.4839 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:13:18.5003 Info - Support_Bank.Models.Person: Hello from Class Person
+2021-07-02 11:13:18.5003 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:13:18.5154 Info - Support_Bank.Models.Person: Hello from Class Person
+2021-07-02 11:13:18.5154 Info - Support_Bank.Models.Person: Doing my thing in CalculateTotals
+2021-07-02 11:13:18.5154 Info - SupportBank.Program: Going off to PromptUser for the information they want! No reason why I should do all the work! It's 11:13:18 AM.
+2021-07-02 11:47:58.2718 Debug - SupportBank.Program: Parsing started 11:47:58 AM.
+2021-07-02 11:47:58.2958 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 11:47:58.3040 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 11:47:58.3040 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 11:47:58.3040 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 11:47:58.3040 Debug - SupportBank.Program: Parsing ended 11:47:58 AM
+2021-07-02 11:47:58.3040 Info - SupportBank.Program: Going to get some inputs now, currently in GetTotalCreditsAndDebits! It's 11:47:58 AM.
+2021-07-02 11:48:00.9425 Info - SupportBank.Program: Dear diary, time for me to do my thing! Logic time... Still in GetTotalCreditsAndDebits
+2021-07-02 11:48:00.9425 Info - SupportBank.Program: Not logging a foreach loop again... Still in GetTotalCreditsAndDebits about to loop to print records to screen
+2021-07-02 11:48:00.9425 Info - SupportBank.Program:  It's 11:48:00 AM.
+2021-07-02 11:48:06.1552 Info - Support_Bank.Models.ConsoleHelper: Currently in PromptUser Method! Got the responses just need to return them back to Main.
+2021-07-02 11:57:21.0625 Debug - SupportBank.Program: Parsing started 11:57:21 AM.
+2021-07-02 11:57:21.0948 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 11:57:21.1000 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 11:57:21.1000 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 11:57:21.1000 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 11:57:21.1000 Debug - SupportBank.Program: Parsing ended 11:57:21 AM
+2021-07-02 11:57:21.1000 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 11:57:21 AM.
+2021-07-02 11:58:03.1646 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 11:58:03.1646 Info - SupportBank.Program: Program ending 11:58:03 AM
+2021-07-02 12:05:13.7496 Debug - SupportBank.Program: Parsing started 12:05:13 PM.
+2021-07-02 12:05:13.7830 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 12:05:13.7935 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 12:05:13.7935 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 12:05:13.7935 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 12:05:13.7935 Debug - SupportBank.Program: Parsing ended 12:05:13 PM
+2021-07-02 12:05:13.7935 Info - SupportBank.Program: GetTotalCreditsAndDebits! It's 12:05:13 PM.
+2021-07-02 12:05:32.8809 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits.
+2021-07-02 12:05:32.8809 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 12:05:32 PM
+2021-07-02 12:06:02.3711 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 12:06:02.3711 Info - SupportBank.Program: User has opted to see their own Debits and Credits.
+2021-07-02 12:06:02.3711 Info - SupportBank.Program: User has opted to see their own Debits and Credits.
+2021-07-02 12:06:02.3711 Info - SupportBank.Program: Program ending 12:06:02 PM
+2021-07-02 12:06:31.1359 Debug - SupportBank.Program: Parsing started 12:06:31 PM.
+2021-07-02 12:06:31.1608 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 12:06:31.1670 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 12:06:31.1670 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 12:06:31.1670 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 12:06:31.1670 Debug - SupportBank.Program: Parsing ended 12:06:31 PM
+2021-07-02 12:06:31.1670 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 12:06:31 PM.
+2021-07-02 12:06:42.0682 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits.
+2021-07-02 12:06:42.0802 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 12:06:42 PM
+2021-07-02 12:06:49.8992 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 12:06:49.8992 Info - SupportBank.Program: User has opted to see their own Statement.
+2021-07-02 12:06:49.8992 Info - SupportBank.Program: User has opted to see their own Debits and Credits.
+2021-07-02 12:06:49.8992 Info - SupportBank.Program: Program ending 12:06:49 PM
+2021-07-02 12:08:14.9181 Debug - SupportBank.Program: Parsing started 12:08:14 PM.
+2021-07-02 12:08:14.9459 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 12:08:14.9459 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 12:08:14.9459 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 12:08:14.9459 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 12:08:14.9459 Debug - SupportBank.Program: Parsing ended 12:08:14 PM
+2021-07-02 12:08:14.9459 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 12:08:14 PM.
+2021-07-02 12:08:17.8667 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits.
+2021-07-02 12:08:17.8667 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 12:08:17 PM
+2021-07-02 12:08:50.7403 Debug - SupportBank.Program: Parsing started 12:08:50 PM.
+2021-07-02 12:08:50.7695 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 12:08:50.7754 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 12:08:50.7754 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 12:08:50.7754 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 12:08:50.7754 Debug - SupportBank.Program: Parsing ended 12:08:50 PM
+2021-07-02 12:08:50.7754 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 12:08:50 PM.
+2021-07-02 12:08:54.8792 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-02 12:08:54.8970 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 12:08:54 PM
+2021-07-02 12:09:08.0301 Debug - SupportBank.Program: Parsing started 12:09:08 PM.
+2021-07-02 12:09:08.0545 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
+2021-07-02 12:09:08.0545 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 12:09:08.0545 Warn - Support_Bank.Models.FileParser: Data incomplete. Entry has been discarded.
+2021-07-02 12:09:08.0545 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-02 12:09:08.0545 Debug - SupportBank.Program: Parsing ended 12:09:08 PM
+2021-07-02 12:09:08.0545 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 12:09:08 PM.
+2021-07-02 12:09:08.6101 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-02 12:09:08.6217 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 12:09:08 PM
+2021-07-02 12:09:19.6983 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 12:09:19.6983 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-02 12:09:19.6983 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
+2021-07-02 12:09:19.6983 Info - SupportBank.Program: Program ending 12:09:19 PM
+2021-07-02 14:17:34.3818 Debug - SupportBank.Program: Parsing started 2:17:34 PM.
+2021-07-02 14:22:25.5938 Debug - SupportBank.Program: Parsing started 2:22:25 PM.
+2021-07-02 14:23:20.7981 Debug - SupportBank.Program: Parsing started 2:23:20 PM.
+2021-07-02 14:23:41.6957 Debug - SupportBank.Program: Parsing started 2:23:41 PM.
+2021-07-02 14:25:54.9370 Debug - SupportBank.Program: Parsing started 2:25:54 PM.
+2021-07-02 14:25:54.9649 Debug - Support_Bank.Models.FileParser: About to read file
+2021-07-02 14:25:54.9649 Debug - Support_Bank.Models.FileParser: file read
+2021-07-02 14:26:23.0249 Debug - SupportBank.Program: Parsing started 2:26:23 PM.
+2021-07-02 14:26:23.0521 Debug - Support_Bank.Models.FileParser: About to read file
+2021-07-02 14:26:23.0531 Debug - Support_Bank.Models.FileParser: file read
+2021-07-02 14:26:45.6961 Debug - SupportBank.Program: Parsing started 2:26:45 PM.
+2021-07-02 14:35:24.8378 Debug - SupportBank.Program: Parsing started 2:35:24 PM.
+2021-07-02 14:41:50.6909 Debug - SupportBank.Program: Parsing started 2:41:50 PM.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: 'Date' is not a valid Date. Transaction from 'From' to 'To' with amount 'Amount'. Entry has been discarded.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Jon A' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Stephen S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: '5.09' is not a valid amount. On date '5.09', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7211 Warn - Support_Bank.Models.FileParser: '11.63' is not a valid amount. On date '11.63', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '5.88' is not a valid amount. On date '5.88', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '8.2' is not a valid amount. On date '8.2', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '11.68' is not a valid amount. On date '11.68', from 'Laura B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '6.81' is not a valid amount. On date '6.81', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '6.29' is not a valid amount. On date '6.29', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '6.87' is not a valid amount. On date '6.87', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '6.03' is not a valid amount. On date '6.03', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '5.62' is not a valid amount. On date '5.62', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '1.65' is not a valid amount. On date '1.65', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '0.93' is not a valid amount. On date '0.93', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '10.78' is not a valid amount. On date '10.78', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '6.91' is not a valid amount. On date '6.91', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '1.6' is not a valid amount. On date '1.6', from 'Sarah T' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '7.1' is not a valid amount. On date '7.1', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '8.41' is not a valid amount. On date '8.41', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '8.75' is not a valid amount. On date '8.75', from 'Stephen S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '9.39' is not a valid amount. On date '9.39', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '1.62' is not a valid amount. On date '1.62', from 'Todd' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '2.1' is not a valid amount. On date '2.1', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '0.66' is not a valid amount. On date '0.66', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '2.28' is not a valid amount. On date '2.28', from 'Tim L' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '1.95' is not a valid amount. On date '1.95', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '8.49' is not a valid amount. On date '8.49', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7253 Warn - Support_Bank.Models.FileParser: '10.76' is not a valid amount. On date '10.76', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '5.01' is not a valid amount. On date '5.01', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '4.77' is not a valid amount. On date '4.77', from 'Dan W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '2.87' is not a valid amount. On date '2.87', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '10.85' is not a valid amount. On date '10.85', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Jon A' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '2.96' is not a valid amount. On date '2.96', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '1.31' is not a valid amount. On date '1.31', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '3.55' is not a valid amount. On date '3.55', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '3.72' is not a valid amount. On date '3.72', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '8.86' is not a valid amount. On date '8.86', from 'Rob S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '7.61' is not a valid amount. On date '7.61', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '11.92' is not a valid amount. On date '11.92', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '3.41' is not a valid amount. On date '3.41', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '6.38' is not a valid amount. On date '6.38', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '1.46' is not a valid amount. On date '1.46', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '5.77' is not a valid amount. On date '5.77', from 'Laura B' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '10.51' is not a valid amount. On date '10.51', from 'Jon A' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '5.06' is not a valid amount. On date '5.06', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Tim L' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '10.63' is not a valid amount. On date '10.63', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '5.89' is not a valid amount. On date '5.89', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '3.61' is not a valid amount. On date '3.61', from 'Rob S' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '9.04' is not a valid amount. On date '9.04', from 'Jon A' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '3.81' is not a valid amount. On date '3.81', from 'Tim L' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '8.8' is not a valid amount. On date '8.8', from 'Sam N' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '7.01' is not a valid amount. On date '7.01', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7418 Warn - Support_Bank.Models.FileParser: '8.23' is not a valid amount. On date '8.23', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '11.5' is not a valid amount. On date '11.5', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '5.14' is not a valid amount. On date '5.14', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '6.3' is not a valid amount. On date '6.3', from 'Todd' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '4.79' is not a valid amount. On date '4.79', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '1.34' is not a valid amount. On date '1.34', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '11.85' is not a valid amount. On date '11.85', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '9.81' is not a valid amount. On date '9.81', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '4.03' is not a valid amount. On date '4.03', from 'Sarah T' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '8.7' is not a valid amount. On date '8.7', from 'Chris W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '2.67' is not a valid amount. On date '2.67', from 'Rob S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '2.9' is not a valid amount. On date '2.9', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Sam N' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '5.45' is not a valid amount. On date '5.45', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '5.05' is not a valid amount. On date '5.05', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '10.92' is not a valid amount. On date '10.92', from 'Gergana I' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '11.75' is not a valid amount. On date '11.75', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '11.57' is not a valid amount. On date '11.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '11.56' is not a valid amount. On date '11.56', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '11.47' is not a valid amount. On date '11.47', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '9.42' is not a valid amount. On date '9.42', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '2.33' is not a valid amount. On date '2.33', from 'Gergana I' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:41:50.7563 Warn - Support_Bank.Models.FileParser: '5.31' is not a valid amount. On date '5.31', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '2.72' is not a valid amount. On date '2.72', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '6.26' is not a valid amount. On date '6.26', from 'Laura B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '7.81' is not a valid amount. On date '7.81', from 'Gergana I' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '3.76' is not a valid amount. On date '3.76', from 'Tim L' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '8.25' is not a valid amount. On date '8.25', from 'Sarah T' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '6.59' is not a valid amount. On date '6.59', from 'Chris W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '7.22' is not a valid amount. On date '7.22', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '9.25' is not a valid amount. On date '9.25', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '1.9' is not a valid amount. On date '1.9', from 'Chris W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '5.02' is not a valid amount. On date '5.02', from 'Ben B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '8.57' is not a valid amount. On date '8.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '0.57' is not a valid amount. On date '0.57', from 'Laura B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '1.66' is not a valid amount. On date '1.66', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '9.41' is not a valid amount. On date '9.41', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '8.13' is not a valid amount. On date '8.13', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '1.8' is not a valid amount. On date '1.8', from 'Dan W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '3.93' is not a valid amount. On date '3.93', from 'Todd' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '3.11' is not a valid amount. On date '3.11', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:41:50.7727 Warn - Support_Bank.Models.FileParser: '1.28' is not a valid amount. On date '1.28', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '3.71' is not a valid amount. On date '3.71', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Jon A' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '11.6' is not a valid amount. On date '11.6', from 'Sarah T' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '3.43' is not a valid amount. On date '3.43', from 'Ben B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '9.26' is not a valid amount. On date '9.26', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '11.28' is not a valid amount. On date '11.28', from 'Ben B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '7.44' is not a valid amount. On date '7.44', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '3.98' is not a valid amount. On date '3.98', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '11.65' is not a valid amount. On date '11.65', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '5.47' is not a valid amount. On date '5.47', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '8' is not a valid amount. On date '8', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '0.55' is not a valid amount. On date '0.55', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '2.37' is not a valid amount. On date '2.37', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '8.42' is not a valid amount. On date '8.42', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '5.04' is not a valid amount. On date '5.04', from 'Gergana I' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '5.87' is not a valid amount. On date '5.87', from 'Dan W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '8.9' is not a valid amount. On date '8.9', from 'Chris W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '4.67' is not a valid amount. On date '4.67', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '6.15' is not a valid amount. On date '6.15', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '3' is not a valid amount. On date '3', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '7.76' is not a valid amount. On date '7.76', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '0.73' is not a valid amount. On date '0.73', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '0.8' is not a valid amount. On date '0.8', from 'Sam N' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Sam N' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '2.61' is not a valid amount. On date '2.61', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '1.42' is not a valid amount. On date '1.42', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '2.24' is not a valid amount. On date '2.24', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:41:50.7885 Warn - Support_Bank.Models.FileParser: '5.76' is not a valid amount. On date '5.76', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '11.04' is not a valid amount. On date '11.04', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '5.64' is not a valid amount. On date '5.64', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '2.26' is not a valid amount. On date '2.26', from 'Jon A' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '4.5' is not a valid amount. On date '4.5', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '4.26' is not a valid amount. On date '4.26', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '7.17' is not a valid amount. On date '7.17', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '11.17' is not a valid amount. On date '11.17', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '1.07' is not a valid amount. On date '1.07', from 'Rob S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '6.86' is not a valid amount. On date '6.86', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '3.66' is not a valid amount. On date '3.66', from 'Dan W' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '1.86' is not a valid amount. On date '1.86', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '1.44' is not a valid amount. On date '1.44', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Warn - Support_Bank.Models.FileParser: '5.26' is not a valid amount. On date '5.26', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:41:50.8039 Debug - SupportBank.Program: Parsing ended 2:41:50 PM
+2021-07-02 14:41:50.8039 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 2:41:50 PM.
+2021-07-02 14:41:52.7915 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-02 14:41:52.7915 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 2:41:52 PM
+2021-07-02 14:42:00.0806 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 14:42:00.0806 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-02 14:42:00.0806 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
+2021-07-02 14:42:00.0850 Info - SupportBank.Program: Program ending 2:42:00 PM
+2021-07-02 14:42:31.8023 Debug - SupportBank.Program: Parsing started 2:42:31 PM.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: 'Date' is not a valid Date. Transaction from 'From' to 'To' with amount 'Amount'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Jon A' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Stephen S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '5.09' is not a valid amount. On date '5.09', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '11.63' is not a valid amount. On date '11.63', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '5.88' is not a valid amount. On date '5.88', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '8.2' is not a valid amount. On date '8.2', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '11.68' is not a valid amount. On date '11.68', from 'Laura B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '6.81' is not a valid amount. On date '6.81', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '6.29' is not a valid amount. On date '6.29', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '6.87' is not a valid amount. On date '6.87', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '6.03' is not a valid amount. On date '6.03', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '5.62' is not a valid amount. On date '5.62', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '1.65' is not a valid amount. On date '1.65', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '0.93' is not a valid amount. On date '0.93', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '10.78' is not a valid amount. On date '10.78', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '6.91' is not a valid amount. On date '6.91', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8367 Warn - Support_Bank.Models.FileParser: '1.6' is not a valid amount. On date '1.6', from 'Sarah T' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '7.1' is not a valid amount. On date '7.1', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '8.41' is not a valid amount. On date '8.41', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '8.75' is not a valid amount. On date '8.75', from 'Stephen S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '9.39' is not a valid amount. On date '9.39', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '1.62' is not a valid amount. On date '1.62', from 'Todd' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '2.1' is not a valid amount. On date '2.1', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '0.66' is not a valid amount. On date '0.66', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '2.28' is not a valid amount. On date '2.28', from 'Tim L' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '1.95' is not a valid amount. On date '1.95', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '8.49' is not a valid amount. On date '8.49', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '10.76' is not a valid amount. On date '10.76', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '5.01' is not a valid amount. On date '5.01', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '4.77' is not a valid amount. On date '4.77', from 'Dan W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '2.87' is not a valid amount. On date '2.87', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '10.85' is not a valid amount. On date '10.85', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Jon A' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '2.96' is not a valid amount. On date '2.96', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '1.31' is not a valid amount. On date '1.31', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '3.55' is not a valid amount. On date '3.55', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '3.72' is not a valid amount. On date '3.72', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '8.86' is not a valid amount. On date '8.86', from 'Rob S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '7.61' is not a valid amount. On date '7.61', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8507 Warn - Support_Bank.Models.FileParser: '11.92' is not a valid amount. On date '11.92', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '3.41' is not a valid amount. On date '3.41', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '6.38' is not a valid amount. On date '6.38', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '1.46' is not a valid amount. On date '1.46', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '5.77' is not a valid amount. On date '5.77', from 'Laura B' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '10.51' is not a valid amount. On date '10.51', from 'Jon A' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '5.06' is not a valid amount. On date '5.06', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Tim L' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '10.63' is not a valid amount. On date '10.63', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '5.89' is not a valid amount. On date '5.89', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '3.61' is not a valid amount. On date '3.61', from 'Rob S' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '9.04' is not a valid amount. On date '9.04', from 'Jon A' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '3.81' is not a valid amount. On date '3.81', from 'Tim L' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '8.8' is not a valid amount. On date '8.8', from 'Sam N' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '7.01' is not a valid amount. On date '7.01', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '8.23' is not a valid amount. On date '8.23', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '11.5' is not a valid amount. On date '11.5', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '5.14' is not a valid amount. On date '5.14', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '6.3' is not a valid amount. On date '6.3', from 'Todd' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8664 Warn - Support_Bank.Models.FileParser: '4.79' is not a valid amount. On date '4.79', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '1.34' is not a valid amount. On date '1.34', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '11.85' is not a valid amount. On date '11.85', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '9.81' is not a valid amount. On date '9.81', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '4.03' is not a valid amount. On date '4.03', from 'Sarah T' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '8.7' is not a valid amount. On date '8.7', from 'Chris W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '2.67' is not a valid amount. On date '2.67', from 'Rob S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '2.9' is not a valid amount. On date '2.9', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Sam N' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '5.45' is not a valid amount. On date '5.45', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '5.05' is not a valid amount. On date '5.05', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '10.92' is not a valid amount. On date '10.92', from 'Gergana I' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '11.75' is not a valid amount. On date '11.75', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '11.57' is not a valid amount. On date '11.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '11.56' is not a valid amount. On date '11.56', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '11.47' is not a valid amount. On date '11.47', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '9.42' is not a valid amount. On date '9.42', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '2.33' is not a valid amount. On date '2.33', from 'Gergana I' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '5.31' is not a valid amount. On date '5.31', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '2.72' is not a valid amount. On date '2.72', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '6.26' is not a valid amount. On date '6.26', from 'Laura B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '7.81' is not a valid amount. On date '7.81', from 'Gergana I' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8818 Warn - Support_Bank.Models.FileParser: '3.76' is not a valid amount. On date '3.76', from 'Tim L' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '8.25' is not a valid amount. On date '8.25', from 'Sarah T' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '6.59' is not a valid amount. On date '6.59', from 'Chris W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '7.22' is not a valid amount. On date '7.22', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '9.25' is not a valid amount. On date '9.25', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '1.9' is not a valid amount. On date '1.9', from 'Chris W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '5.02' is not a valid amount. On date '5.02', from 'Ben B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '8.57' is not a valid amount. On date '8.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '0.57' is not a valid amount. On date '0.57', from 'Laura B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '1.66' is not a valid amount. On date '1.66', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '9.41' is not a valid amount. On date '9.41', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '8.13' is not a valid amount. On date '8.13', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '1.8' is not a valid amount. On date '1.8', from 'Dan W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '3.93' is not a valid amount. On date '3.93', from 'Todd' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '3.11' is not a valid amount. On date '3.11', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '1.28' is not a valid amount. On date '1.28', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '3.71' is not a valid amount. On date '3.71', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Jon A' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '11.6' is not a valid amount. On date '11.6', from 'Sarah T' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '3.43' is not a valid amount. On date '3.43', from 'Ben B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '9.26' is not a valid amount. On date '9.26', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '11.28' is not a valid amount. On date '11.28', from 'Ben B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '7.44' is not a valid amount. On date '7.44', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '3.98' is not a valid amount. On date '3.98', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '11.65' is not a valid amount. On date '11.65', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '5.47' is not a valid amount. On date '5.47', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.8971 Warn - Support_Bank.Models.FileParser: '8' is not a valid amount. On date '8', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '0.55' is not a valid amount. On date '0.55', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '2.37' is not a valid amount. On date '2.37', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '8.42' is not a valid amount. On date '8.42', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '5.04' is not a valid amount. On date '5.04', from 'Gergana I' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '5.87' is not a valid amount. On date '5.87', from 'Dan W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '8.9' is not a valid amount. On date '8.9', from 'Chris W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '4.67' is not a valid amount. On date '4.67', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '6.15' is not a valid amount. On date '6.15', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '3' is not a valid amount. On date '3', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '7.76' is not a valid amount. On date '7.76', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '0.73' is not a valid amount. On date '0.73', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '0.8' is not a valid amount. On date '0.8', from 'Sam N' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Sam N' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '2.61' is not a valid amount. On date '2.61', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '1.42' is not a valid amount. On date '1.42', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '2.24' is not a valid amount. On date '2.24', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '5.76' is not a valid amount. On date '5.76', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '11.04' is not a valid amount. On date '11.04', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '5.64' is not a valid amount. On date '5.64', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '2.26' is not a valid amount. On date '2.26', from 'Jon A' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '4.5' is not a valid amount. On date '4.5', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '4.26' is not a valid amount. On date '4.26', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '7.17' is not a valid amount. On date '7.17', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '11.17' is not a valid amount. On date '11.17', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '1.07' is not a valid amount. On date '1.07', from 'Rob S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '6.86' is not a valid amount. On date '6.86', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '3.66' is not a valid amount. On date '3.66', from 'Dan W' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '1.86' is not a valid amount. On date '1.86', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '1.44' is not a valid amount. On date '1.44', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:42:31.9128 Warn - Support_Bank.Models.FileParser: '5.26' is not a valid amount. On date '5.26', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:42:31.9281 Debug - SupportBank.Program: Parsing ended 2:42:31 PM
+2021-07-02 14:42:31.9281 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 2:42:31 PM.
+2021-07-02 14:48:01.4288 Debug - SupportBank.Program: Parsing started 2:48:01 PM.
+2021-07-02 14:48:01.5715 Fatal - Support_Bank.Models.FileParser: Cannot find directory: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2014.csv'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at Support_Bank.Models.FileParser.GetTransactionsFromCsv(String path) in C:\Training\OOP C#\Support Bank\Models\FileParser.cs:line 58
+   at Support_Bank.Models.FileParser.GetTransactions(String path) in C:\Training\OOP C#\Support Bank\Models\FileParser.cs:line 40
+2021-07-02 14:48:58.5067 Debug - SupportBank.Program: Parsing started 2:48:58 PM.
+2021-07-02 14:48:58.6474 Fatal - Support_Bank.Models.FileParser: Cannot find directory: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2014.csv'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at Support_Bank.Models.FileParser.GetTransactionsFromCsv(String path) in C:\Training\OOP C#\Support Bank\Models\FileParser.cs:line 58
+   at Support_Bank.Models.FileParser.GetTransactions(String path) in C:\Training\OOP C#\Support Bank\Models\FileParser.cs:line 40
+2021-07-02 14:50:39.3123 Debug - SupportBank.Program: Parsing started 2:50:39 PM.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: 'Date' is not a valid Date. Transaction from 'From' to 'To' with amount 'Amount'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Jon A' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Stephen S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '5.09' is not a valid amount. On date '5.09', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '11.63' is not a valid amount. On date '11.63', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '5.88' is not a valid amount. On date '5.88', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '8.2' is not a valid amount. On date '8.2', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '11.68' is not a valid amount. On date '11.68', from 'Laura B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7601 Warn - Support_Bank.Models.FileParser: '6.81' is not a valid amount. On date '6.81', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '6.29' is not a valid amount. On date '6.29', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '6.87' is not a valid amount. On date '6.87', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '6.03' is not a valid amount. On date '6.03', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '5.62' is not a valid amount. On date '5.62', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '1.65' is not a valid amount. On date '1.65', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '0.93' is not a valid amount. On date '0.93', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '10.78' is not a valid amount. On date '10.78', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '6.91' is not a valid amount. On date '6.91', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '1.6' is not a valid amount. On date '1.6', from 'Sarah T' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '7.1' is not a valid amount. On date '7.1', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '8.41' is not a valid amount. On date '8.41', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '8.75' is not a valid amount. On date '8.75', from 'Stephen S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:50:45.7729 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '9.39' is not a valid amount. On date '9.39', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '1.62' is not a valid amount. On date '1.62', from 'Todd' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '2.1' is not a valid amount. On date '2.1', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '0.66' is not a valid amount. On date '0.66', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '2.28' is not a valid amount. On date '2.28', from 'Tim L' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '1.95' is not a valid amount. On date '1.95', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '8.49' is not a valid amount. On date '8.49', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '10.76' is not a valid amount. On date '10.76', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '5.01' is not a valid amount. On date '5.01', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '4.77' is not a valid amount. On date '4.77', from 'Dan W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '2.87' is not a valid amount. On date '2.87', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '10.85' is not a valid amount. On date '10.85', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Jon A' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '2.96' is not a valid amount. On date '2.96', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '1.31' is not a valid amount. On date '1.31', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '3.55' is not a valid amount. On date '3.55', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '3.72' is not a valid amount. On date '3.72', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '8.86' is not a valid amount. On date '8.86', from 'Rob S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.7878 Warn - Support_Bank.Models.FileParser: '7.61' is not a valid amount. On date '7.61', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '11.92' is not a valid amount. On date '11.92', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '3.41' is not a valid amount. On date '3.41', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '6.38' is not a valid amount. On date '6.38', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '1.46' is not a valid amount. On date '1.46', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '5.77' is not a valid amount. On date '5.77', from 'Laura B' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '10.51' is not a valid amount. On date '10.51', from 'Jon A' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '5.06' is not a valid amount. On date '5.06', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Tim L' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '10.63' is not a valid amount. On date '10.63', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '5.89' is not a valid amount. On date '5.89', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '3.61' is not a valid amount. On date '3.61', from 'Rob S' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '9.04' is not a valid amount. On date '9.04', from 'Jon A' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '3.81' is not a valid amount. On date '3.81', from 'Tim L' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '8.8' is not a valid amount. On date '8.8', from 'Sam N' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '7.01' is not a valid amount. On date '7.01', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8040 Warn - Support_Bank.Models.FileParser: '8.23' is not a valid amount. On date '8.23', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '11.5' is not a valid amount. On date '11.5', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '5.14' is not a valid amount. On date '5.14', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '6.3' is not a valid amount. On date '6.3', from 'Todd' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '4.79' is not a valid amount. On date '4.79', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '1.34' is not a valid amount. On date '1.34', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '11.85' is not a valid amount. On date '11.85', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '9.81' is not a valid amount. On date '9.81', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8197 Warn - Support_Bank.Models.FileParser: '4.03' is not a valid amount. On date '4.03', from 'Sarah T' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8484 Warn - Support_Bank.Models.FileParser: '8.7' is not a valid amount. On date '8.7', from 'Chris W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8484 Warn - Support_Bank.Models.FileParser: '2.67' is not a valid amount. On date '2.67', from 'Rob S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:50:45.8484 Warn - Support_Bank.Models.FileParser: '2.9' is not a valid amount. On date '2.9', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Sam N' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '5.45' is not a valid amount. On date '5.45', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '5.05' is not a valid amount. On date '5.05', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '10.92' is not a valid amount. On date '10.92', from 'Gergana I' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '11.75' is not a valid amount. On date '11.75', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '11.57' is not a valid amount. On date '11.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '11.56' is not a valid amount. On date '11.56', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '11.47' is not a valid amount. On date '11.47', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '9.42' is not a valid amount. On date '9.42', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '2.33' is not a valid amount. On date '2.33', from 'Gergana I' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '5.31' is not a valid amount. On date '5.31', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '2.72' is not a valid amount. On date '2.72', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '6.26' is not a valid amount. On date '6.26', from 'Laura B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '7.81' is not a valid amount. On date '7.81', from 'Gergana I' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '3.76' is not a valid amount. On date '3.76', from 'Tim L' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '8.25' is not a valid amount. On date '8.25', from 'Sarah T' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '6.59' is not a valid amount. On date '6.59', from 'Chris W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '7.22' is not a valid amount. On date '7.22', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8511 Warn - Support_Bank.Models.FileParser: '9.25' is not a valid amount. On date '9.25', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '1.9' is not a valid amount. On date '1.9', from 'Chris W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '5.02' is not a valid amount. On date '5.02', from 'Ben B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '8.57' is not a valid amount. On date '8.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '0.57' is not a valid amount. On date '0.57', from 'Laura B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '1.66' is not a valid amount. On date '1.66', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '9.41' is not a valid amount. On date '9.41', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '8.13' is not a valid amount. On date '8.13', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '1.8' is not a valid amount. On date '1.8', from 'Dan W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '3.93' is not a valid amount. On date '3.93', from 'Todd' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '3.11' is not a valid amount. On date '3.11', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '1.28' is not a valid amount. On date '1.28', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8686 Warn - Support_Bank.Models.FileParser: '3.71' is not a valid amount. On date '3.71', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Jon A' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '11.6' is not a valid amount. On date '11.6', from 'Sarah T' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '3.43' is not a valid amount. On date '3.43', from 'Ben B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '9.26' is not a valid amount. On date '9.26', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '11.28' is not a valid amount. On date '11.28', from 'Ben B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '7.44' is not a valid amount. On date '7.44', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '3.98' is not a valid amount. On date '3.98', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '11.65' is not a valid amount. On date '11.65', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '5.47' is not a valid amount. On date '5.47', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '8' is not a valid amount. On date '8', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '0.55' is not a valid amount. On date '0.55', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '2.37' is not a valid amount. On date '2.37', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '8.42' is not a valid amount. On date '8.42', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '5.04' is not a valid amount. On date '5.04', from 'Gergana I' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '5.87' is not a valid amount. On date '5.87', from 'Dan W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '8.9' is not a valid amount. On date '8.9', from 'Chris W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '4.67' is not a valid amount. On date '4.67', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '6.15' is not a valid amount. On date '6.15', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '3' is not a valid amount. On date '3', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '7.76' is not a valid amount. On date '7.76', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '0.73' is not a valid amount. On date '0.73', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8825 Warn - Support_Bank.Models.FileParser: '0.8' is not a valid amount. On date '0.8', from 'Sam N' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Sam N' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '2.61' is not a valid amount. On date '2.61', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '1.42' is not a valid amount. On date '1.42', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '2.24' is not a valid amount. On date '2.24', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '5.76' is not a valid amount. On date '5.76', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '11.04' is not a valid amount. On date '11.04', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '5.64' is not a valid amount. On date '5.64', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '2.26' is not a valid amount. On date '2.26', from 'Jon A' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '4.5' is not a valid amount. On date '4.5', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '4.26' is not a valid amount. On date '4.26', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '7.17' is not a valid amount. On date '7.17', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '11.17' is not a valid amount. On date '11.17', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '1.07' is not a valid amount. On date '1.07', from 'Rob S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '6.86' is not a valid amount. On date '6.86', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '3.66' is not a valid amount. On date '3.66', from 'Dan W' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '1.86' is not a valid amount. On date '1.86', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '1.44' is not a valid amount. On date '1.44', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Warn - Support_Bank.Models.FileParser: '5.26' is not a valid amount. On date '5.26', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:50:45.8976 Debug - SupportBank.Program: Parsing ended 2:50:45 PM
+2021-07-02 14:50:45.8976 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 2:50:45 PM.
+2021-07-02 14:50:59.6110 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-02 14:50:59.6110 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 2:50:59 PM
+2021-07-02 14:51:05.2904 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 14:51:05.2904 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-02 14:51:05.2904 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
+2021-07-02 14:51:05.2904 Info - SupportBank.Program: Program ending 2:51:05 PM
+2021-07-02 14:51:20.4497 Debug - SupportBank.Program: Parsing started 2:51:20 PM.
+2021-07-02 14:51:20.5885 Warn - Support_Bank.Models.FileParser: 'Date' is not a valid Date. Transaction from 'From' to 'To' with amount 'Amount'. Entry has been discarded.
+2021-07-02 14:51:20.5885 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Jon A' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.5885 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Stephen S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.5885 Warn - Support_Bank.Models.FileParser: '5.09' is not a valid amount. On date '5.09', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '11.63' is not a valid amount. On date '11.63', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '5.88' is not a valid amount. On date '5.88', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '8.2' is not a valid amount. On date '8.2', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '11.68' is not a valid amount. On date '11.68', from 'Laura B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.6017 Warn - Support_Bank.Models.FileParser: '6.81' is not a valid amount. On date '6.81', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '6.29' is not a valid amount. On date '6.29', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '6.87' is not a valid amount. On date '6.87', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '6.03' is not a valid amount. On date '6.03', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '5.62' is not a valid amount. On date '5.62', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '1.65' is not a valid amount. On date '1.65', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '0.93' is not a valid amount. On date '0.93', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.6171 Warn - Support_Bank.Models.FileParser: '10.78' is not a valid amount. On date '10.78', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.6524 Warn - Support_Bank.Models.FileParser: '6.91' is not a valid amount. On date '6.91', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.6744 Warn - Support_Bank.Models.FileParser: '1.6' is not a valid amount. On date '1.6', from 'Sarah T' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.7069 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.7150 Warn - Support_Bank.Models.FileParser: '7.1' is not a valid amount. On date '7.1', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.7150 Warn - Support_Bank.Models.FileParser: '8.41' is not a valid amount. On date '8.41', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.7150 Warn - Support_Bank.Models.FileParser: '8.75' is not a valid amount. On date '8.75', from 'Stephen S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:51:20.7150 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.7255 Warn - Support_Bank.Models.FileParser: '9.39' is not a valid amount. On date '9.39', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.7255 Warn - Support_Bank.Models.FileParser: '1.62' is not a valid amount. On date '1.62', from 'Todd' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.7255 Warn - Support_Bank.Models.FileParser: '2.1' is not a valid amount. On date '2.1', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.7255 Warn - Support_Bank.Models.FileParser: '0.66' is not a valid amount. On date '0.66', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.7255 Warn - Support_Bank.Models.FileParser: '2.28' is not a valid amount. On date '2.28', from 'Tim L' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.7255 Warn - Support_Bank.Models.FileParser: '1.95' is not a valid amount. On date '1.95', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '8.49' is not a valid amount. On date '8.49', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '10.76' is not a valid amount. On date '10.76', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '5.01' is not a valid amount. On date '5.01', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '4.77' is not a valid amount. On date '4.77', from 'Dan W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '2.87' is not a valid amount. On date '2.87', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '10.85' is not a valid amount. On date '10.85', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Jon A' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '2.96' is not a valid amount. On date '2.96', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '1.31' is not a valid amount. On date '1.31', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '3.55' is not a valid amount. On date '3.55', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.7415 Warn - Support_Bank.Models.FileParser: '3.72' is not a valid amount. On date '3.72', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.7630 Warn - Support_Bank.Models.FileParser: '8.86' is not a valid amount. On date '8.86', from 'Rob S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.7630 Warn - Support_Bank.Models.FileParser: '7.61' is not a valid amount. On date '7.61', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.7630 Warn - Support_Bank.Models.FileParser: '11.92' is not a valid amount. On date '11.92', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.7630 Warn - Support_Bank.Models.FileParser: '3.41' is not a valid amount. On date '3.41', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.7630 Warn - Support_Bank.Models.FileParser: '6.38' is not a valid amount. On date '6.38', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '1.46' is not a valid amount. On date '1.46', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '5.77' is not a valid amount. On date '5.77', from 'Laura B' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '10.51' is not a valid amount. On date '10.51', from 'Jon A' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '5.06' is not a valid amount. On date '5.06', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Tim L' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '10.63' is not a valid amount. On date '10.63', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '5.89' is not a valid amount. On date '5.89', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '3.61' is not a valid amount. On date '3.61', from 'Rob S' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '9.04' is not a valid amount. On date '9.04', from 'Jon A' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '3.81' is not a valid amount. On date '3.81', from 'Tim L' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.7728 Warn - Support_Bank.Models.FileParser: '8.8' is not a valid amount. On date '8.8', from 'Sam N' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.7890 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.7890 Warn - Support_Bank.Models.FileParser: '7.01' is not a valid amount. On date '7.01', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.7890 Warn - Support_Bank.Models.FileParser: '8.23' is not a valid amount. On date '8.23', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.7890 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.7890 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.7890 Warn - Support_Bank.Models.FileParser: '11.5' is not a valid amount. On date '11.5', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8036 Warn - Support_Bank.Models.FileParser: '5.14' is not a valid amount. On date '5.14', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8036 Warn - Support_Bank.Models.FileParser: '6.3' is not a valid amount. On date '6.3', from 'Todd' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8036 Warn - Support_Bank.Models.FileParser: '4.79' is not a valid amount. On date '4.79', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8036 Warn - Support_Bank.Models.FileParser: '1.34' is not a valid amount. On date '1.34', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:51:20.8036 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8036 Warn - Support_Bank.Models.FileParser: '11.85' is not a valid amount. On date '11.85', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.8251 Warn - Support_Bank.Models.FileParser: '9.81' is not a valid amount. On date '9.81', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '4.03' is not a valid amount. On date '4.03', from 'Sarah T' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '8.7' is not a valid amount. On date '8.7', from 'Chris W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '2.67' is not a valid amount. On date '2.67', from 'Rob S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '2.9' is not a valid amount. On date '2.9', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Sam N' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '5.45' is not a valid amount. On date '5.45', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '5.05' is not a valid amount. On date '5.05', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.8393 Warn - Support_Bank.Models.FileParser: '10.92' is not a valid amount. On date '10.92', from 'Gergana I' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '11.75' is not a valid amount. On date '11.75', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '11.57' is not a valid amount. On date '11.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '11.56' is not a valid amount. On date '11.56', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '11.47' is not a valid amount. On date '11.47', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '9.42' is not a valid amount. On date '9.42', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '2.33' is not a valid amount. On date '2.33', from 'Gergana I' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '5.31' is not a valid amount. On date '5.31', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8508 Warn - Support_Bank.Models.FileParser: '2.72' is not a valid amount. On date '2.72', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '6.26' is not a valid amount. On date '6.26', from 'Laura B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '7.81' is not a valid amount. On date '7.81', from 'Gergana I' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '3.76' is not a valid amount. On date '3.76', from 'Tim L' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '8.25' is not a valid amount. On date '8.25', from 'Sarah T' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '6.59' is not a valid amount. On date '6.59', from 'Chris W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '7.22' is not a valid amount. On date '7.22', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '9.25' is not a valid amount. On date '9.25', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '1.9' is not a valid amount. On date '1.9', from 'Chris W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '5.02' is not a valid amount. On date '5.02', from 'Ben B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8675 Warn - Support_Bank.Models.FileParser: '8.57' is not a valid amount. On date '8.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '0.57' is not a valid amount. On date '0.57', from 'Laura B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '1.66' is not a valid amount. On date '1.66', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '9.41' is not a valid amount. On date '9.41', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '8.13' is not a valid amount. On date '8.13', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '1.8' is not a valid amount. On date '1.8', from 'Dan W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '3.93' is not a valid amount. On date '3.93', from 'Todd' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '3.11' is not a valid amount. On date '3.11', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '1.28' is not a valid amount. On date '1.28', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '3.71' is not a valid amount. On date '3.71', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Jon A' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.8822 Warn - Support_Bank.Models.FileParser: '11.6' is not a valid amount. On date '11.6', from 'Sarah T' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '3.43' is not a valid amount. On date '3.43', from 'Ben B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '9.26' is not a valid amount. On date '9.26', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '11.28' is not a valid amount. On date '11.28', from 'Ben B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '7.44' is not a valid amount. On date '7.44', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '3.98' is not a valid amount. On date '3.98', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '11.65' is not a valid amount. On date '11.65', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '5.47' is not a valid amount. On date '5.47', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '8' is not a valid amount. On date '8', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '0.55' is not a valid amount. On date '0.55', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '2.37' is not a valid amount. On date '2.37', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '8.42' is not a valid amount. On date '8.42', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.8988 Warn - Support_Bank.Models.FileParser: '5.04' is not a valid amount. On date '5.04', from 'Gergana I' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '5.87' is not a valid amount. On date '5.87', from 'Dan W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '8.9' is not a valid amount. On date '8.9', from 'Chris W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '4.67' is not a valid amount. On date '4.67', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '6.15' is not a valid amount. On date '6.15', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '3' is not a valid amount. On date '3', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '7.76' is not a valid amount. On date '7.76', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '0.73' is not a valid amount. On date '0.73', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '0.8' is not a valid amount. On date '0.8', from 'Sam N' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Sam N' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '2.61' is not a valid amount. On date '2.61', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '1.42' is not a valid amount. On date '1.42', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '2.24' is not a valid amount. On date '2.24', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '5.76' is not a valid amount. On date '5.76', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.9131 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '11.04' is not a valid amount. On date '11.04', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '5.64' is not a valid amount. On date '5.64', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '2.26' is not a valid amount. On date '2.26', from 'Jon A' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '4.5' is not a valid amount. On date '4.5', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '4.26' is not a valid amount. On date '4.26', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '7.17' is not a valid amount. On date '7.17', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '11.17' is not a valid amount. On date '11.17', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '1.07' is not a valid amount. On date '1.07', from 'Rob S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '6.86' is not a valid amount. On date '6.86', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '3.66' is not a valid amount. On date '3.66', from 'Dan W' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '1.86' is not a valid amount. On date '1.86', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '1.44' is not a valid amount. On date '1.44', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Warn - Support_Bank.Models.FileParser: '5.26' is not a valid amount. On date '5.26', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:51:20.9297 Debug - SupportBank.Program: Parsing ended 2:51:20 PM
+2021-07-02 14:52:19.5702 Debug - SupportBank.Program: Parsing started 2:52:19 PM.
+2021-07-02 14:52:19.6473 Warn - Support_Bank.Models.FileParser: 'Date' is not a valid Date. Transaction from 'From' to 'To' with amount 'Amount'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Jon A' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Stephen S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '5.09' is not a valid amount. On date '5.09', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '7.8' is not a valid amount. On date '7.8', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '11.63' is not a valid amount. On date '11.63', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '5.88' is not a valid amount. On date '5.88', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '8.2' is not a valid amount. On date '8.2', from 'Sam N' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '11.68' is not a valid amount. On date '11.68', from 'Laura B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '6.81' is not a valid amount. On date '6.81', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '6.29' is not a valid amount. On date '6.29', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6486 Warn - Support_Bank.Models.FileParser: '6.87' is not a valid amount. On date '6.87', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '6.03' is not a valid amount. On date '6.03', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '5.62' is not a valid amount. On date '5.62', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '1.65' is not a valid amount. On date '1.65', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '0.93' is not a valid amount. On date '0.93', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '10.78' is not a valid amount. On date '10.78', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '6.91' is not a valid amount. On date '6.91', from 'Stephen S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '1.6' is not a valid amount. On date '1.6', from 'Sarah T' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '7.1' is not a valid amount. On date '7.1', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '8.41' is not a valid amount. On date '8.41', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '8.75' is not a valid amount. On date '8.75', from 'Stephen S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:52:19.6638 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '9.39' is not a valid amount. On date '9.39', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '1.62' is not a valid amount. On date '1.62', from 'Todd' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '2.1' is not a valid amount. On date '2.1', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '0.66' is not a valid amount. On date '0.66', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '2.28' is not a valid amount. On date '2.28', from 'Tim L' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '1.95' is not a valid amount. On date '1.95', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '8.49' is not a valid amount. On date '8.49', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '10.76' is not a valid amount. On date '10.76', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '5.01' is not a valid amount. On date '5.01', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '4.77' is not a valid amount. On date '4.77', from 'Dan W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '2.87' is not a valid amount. On date '2.87', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '10.85' is not a valid amount. On date '10.85', from 'Todd' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Jon A' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '2.96' is not a valid amount. On date '2.96', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '1.31' is not a valid amount. On date '1.31', from 'Ben B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '3.55' is not a valid amount. On date '3.55', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.6796 Warn - Support_Bank.Models.FileParser: '3.72' is not a valid amount. On date '3.72', from 'Todd' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '8.86' is not a valid amount. On date '8.86', from 'Rob S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '7.61' is not a valid amount. On date '7.61', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '11.92' is not a valid amount. On date '11.92', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '3.41' is not a valid amount. On date '3.41', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '6.38' is not a valid amount. On date '6.38', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '1.46' is not a valid amount. On date '1.46', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '5.77' is not a valid amount. On date '5.77', from 'Laura B' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '10.51' is not a valid amount. On date '10.51', from 'Jon A' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '5.06' is not a valid amount. On date '5.06', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Tim L' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '10.63' is not a valid amount. On date '10.63', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '5.89' is not a valid amount. On date '5.89', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '3.61' is not a valid amount. On date '3.61', from 'Rob S' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '9.04' is not a valid amount. On date '9.04', from 'Jon A' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '3.81' is not a valid amount. On date '3.81', from 'Tim L' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '8.8' is not a valid amount. On date '8.8', from 'Sam N' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '7.36' is not a valid amount. On date '7.36', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '7.01' is not a valid amount. On date '7.01', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '8.23' is not a valid amount. On date '8.23', from 'Tim L' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '5.2' is not a valid amount. On date '5.2', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Dan W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '11.5' is not a valid amount. On date '11.5', from 'Sarah T' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '5.14' is not a valid amount. On date '5.14', from 'Stephen S' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.6946 Warn - Support_Bank.Models.FileParser: '6.3' is not a valid amount. On date '6.3', from 'Todd' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '4.79' is not a valid amount. On date '4.79', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '1.34' is not a valid amount. On date '1.34', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Tim L' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '11.85' is not a valid amount. On date '11.85', from 'Stephen S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '9.81' is not a valid amount. On date '9.81', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '4.03' is not a valid amount. On date '4.03', from 'Sarah T' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '8.7' is not a valid amount. On date '8.7', from 'Chris W' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.7100 Warn - Support_Bank.Models.FileParser: '2.67' is not a valid amount. On date '2.67', from 'Rob S' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '2.9' is not a valid amount. On date '2.9', from 'Stephen S' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '4.37' is not a valid amount. On date '4.37', from 'Sam N' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '5.45' is not a valid amount. On date '5.45', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '5.05' is not a valid amount. On date '5.05', from 'Dan W' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '10.92' is not a valid amount. On date '10.92', from 'Gergana I' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '11.75' is not a valid amount. On date '11.75', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '11.57' is not a valid amount. On date '11.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '11.56' is not a valid amount. On date '11.56', from 'Sarah T' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '11.47' is not a valid amount. On date '11.47', from 'Rob S' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '9.42' is not a valid amount. On date '9.42', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '2.33' is not a valid amount. On date '2.33', from 'Gergana I' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '5.31' is not a valid amount. On date '5.31', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '2.72' is not a valid amount. On date '2.72', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '6.26' is not a valid amount. On date '6.26', from 'Laura B' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7255 Warn - Support_Bank.Models.FileParser: '7.81' is not a valid amount. On date '7.81', from 'Gergana I' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '3.76' is not a valid amount. On date '3.76', from 'Tim L' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '8.91' is not a valid amount. On date '8.91', from 'Stephen S' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '8.25' is not a valid amount. On date '8.25', from 'Sarah T' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '6.59' is not a valid amount. On date '6.59', from 'Chris W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '7.22' is not a valid amount. On date '7.22', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '9.25' is not a valid amount. On date '9.25', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '1.9' is not a valid amount. On date '1.9', from 'Chris W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '5.02' is not a valid amount. On date '5.02', from 'Ben B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '7.45' is not a valid amount. On date '7.45', from 'Laura B' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '8.57' is not a valid amount. On date '8.57', from 'Gergana I' to 'Stephen S'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '0.57' is not a valid amount. On date '0.57', from 'Laura B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '1.66' is not a valid amount. On date '1.66', from 'Ben B' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '9.41' is not a valid amount. On date '9.41', from 'Sam N' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '8.13' is not a valid amount. On date '8.13', from 'Jon A' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '1.8' is not a valid amount. On date '1.8', from 'Dan W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '3.93' is not a valid amount. On date '3.93', from 'Todd' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7415 Warn - Support_Bank.Models.FileParser: '3.11' is not a valid amount. On date '3.11', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '1.28' is not a valid amount. On date '1.28', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '3.71' is not a valid amount. On date '3.71', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '5.61' is not a valid amount. On date '5.61', from 'Jon A' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '11.6' is not a valid amount. On date '11.6', from 'Sarah T' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '3.43' is not a valid amount. On date '3.43', from 'Ben B' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '9.26' is not a valid amount. On date '9.26', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '11.28' is not a valid amount. On date '11.28', from 'Ben B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '7.44' is not a valid amount. On date '7.44', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '3.98' is not a valid amount. On date '3.98', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '11.65' is not a valid amount. On date '11.65', from 'Ben B' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '5.47' is not a valid amount. On date '5.47', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '8' is not a valid amount. On date '8', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '0.55' is not a valid amount. On date '0.55', from 'Dan W' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '2.37' is not a valid amount. On date '2.37', from 'Jon A' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '8.42' is not a valid amount. On date '8.42', from 'Laura B' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.7564 Warn - Support_Bank.Models.FileParser: '5.04' is not a valid amount. On date '5.04', from 'Gergana I' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '5.87' is not a valid amount. On date '5.87', from 'Dan W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '8.9' is not a valid amount. On date '8.9', from 'Chris W' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '4.67' is not a valid amount. On date '4.67', from 'Sarah T' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '6.15' is not a valid amount. On date '6.15', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '3' is not a valid amount. On date '3', from 'Rob S' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '7.76' is not a valid amount. On date '7.76', from 'Sam N' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '0.73' is not a valid amount. On date '0.73', from 'Jon A' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '0.8' is not a valid amount. On date '0.8', from 'Sam N' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '6.44' is not a valid amount. On date '6.44', from 'Sam N' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '2.61' is not a valid amount. On date '2.61', from 'Laura B' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '1.42' is not a valid amount. On date '1.42', from 'Chris W' to 'Todd'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '2.24' is not a valid amount. On date '2.24', from 'Todd' to 'Sarah T'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '5.76' is not a valid amount. On date '5.76', from 'Chris W' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '8.76' is not a valid amount. On date '8.76', from 'Tim L' to 'Dan W'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '11.04' is not a valid amount. On date '11.04', from 'Jon A' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '5.64' is not a valid amount. On date '5.64', from 'Gergana I' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7731 Warn - Support_Bank.Models.FileParser: '2.26' is not a valid amount. On date '2.26', from 'Jon A' to 'Chris W'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '4.5' is not a valid amount. On date '4.5', from 'Dan W' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '4.26' is not a valid amount. On date '4.26', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '7.17' is not a valid amount. On date '7.17', from 'Todd' to 'Tim L'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '11.17' is not a valid amount. On date '11.17', from 'Chris W' to 'Ben B'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '1.07' is not a valid amount. On date '1.07', from 'Rob S' to 'Gergana I'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '6.86' is not a valid amount. On date '6.86', from 'Gergana I' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '3.66' is not a valid amount. On date '3.66', from 'Dan W' to 'Jon A'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '1.86' is not a valid amount. On date '1.86', from 'Todd' to 'Rob S'. Entry has been discarded.
+2021-07-02 14:52:19.7899 Warn - Support_Bank.Models.FileParser: '1.44' is not a valid amount. On date '1.44', from 'Ben B' to 'Laura B'. Entry has been discarded.
+2021-07-02 14:52:19.8051 Warn - Support_Bank.Models.FileParser: '5.26' is not a valid amount. On date '5.26', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-02 14:52:19.8051 Debug - SupportBank.Program: Parsing ended 2:52:19 PM
+2021-07-02 14:52:42.2291 Debug - SupportBank.Program: Parsing started 2:52:42 PM.
+2021-07-02 14:52:42.3083 Warn - Support_Bank.Models.FileParser: 'Date' is not a valid Date. Transaction from 'From' to 'To' with amount 'Amount'. Entry has been discarded.
+2021-07-02 14:53:54.4254 Debug - SupportBank.Program: Parsing ended 2:53:54 PM
+2021-07-02 14:54:05.0722 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 2:54:05 PM.
+2021-07-02 14:54:09.3224 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-02 14:54:09.3224 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 2:54:09 PM
+2021-07-02 14:54:15.2999 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-02 14:54:15.2999 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-02 14:54:15.3074 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
+2021-07-02 14:54:15.3074 Info - SupportBank.Program: Program ending 2:54:15 PM

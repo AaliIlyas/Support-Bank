@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\OOP C#\\Support Bank VS\\Support Bank current\\Support_Bank.csproj": {}
+    "C:\\Training\\OOP C#\\Support Bank\\Support_Bank.csproj": {}
   },
   "projects": {
-    "C:\\Training\\OOP C#\\Support Bank VS\\Support Bank current\\Support_Bank.csproj": {
+    "C:\\Training\\OOP C#\\Support Bank\\Support_Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\OOP C#\\Support Bank VS\\Support Bank current\\Support_Bank.csproj",
+        "projectUniqueName": "C:\\Training\\OOP C#\\Support Bank\\Support_Bank.csproj",
         "projectName": "Support_Bank",
-        "projectPath": "C:\\Training\\OOP C#\\Support Bank VS\\Support Bank current\\Support_Bank.csproj",
+        "projectPath": "C:\\Training\\OOP C#\\Support Bank\\Support_Bank.csproj",
         "packagesPath": "C:\\Users\\ilyali\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\OOP C#\\Support Bank VS\\Support Bank current\\obj\\",
+        "outputPath": "C:\\Training\\OOP C#\\Support Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilyali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.33, )"
+            },
             "NLog": {
               "target": "Package",
               "version": "[5.0.0-beta11, )"
