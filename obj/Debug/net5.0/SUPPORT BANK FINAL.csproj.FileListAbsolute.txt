@@ -17,3 +17,22 @@ C:\Training\OOP C#\Support Bank VS\SUPPORT BANK FINAL\obj\Debug\net5.0\SUPPORT B
 C:\Training\OOP C#\Support Bank VS\SUPPORT BANK FINAL\obj\Debug\net5.0\ref\SUPPORT BANK FINAL.dll
 C:\Training\OOP C#\Support Bank VS\SUPPORT BANK FINAL\obj\Debug\net5.0\SUPPORT BANK FINAL.pdb
 C:\Training\OOP C#\Support Bank VS\SUPPORT BANK FINAL\obj\Debug\net5.0\SUPPORT BANK FINAL.genruntimeconfig.cache
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\SUPPORT BANK FINAL.exe
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\SUPPORT BANK FINAL.deps.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\SUPPORT BANK FINAL.runtimeconfig.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\SUPPORT BANK FINAL.runtimeconfig.dev.json
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\SUPPORT BANK FINAL.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\ref\SUPPORT BANK FINAL.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\SUPPORT BANK FINAL.pdb
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\NLog.dll
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.csproj.AssemblyReference.cache
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.AssemblyInfoInputs.cache
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.AssemblyInfo.cs
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.csproj.CoreCompileInputs.cache
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.csproj.CopyComplete
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.dll
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\ref\SUPPORT BANK FINAL.dll
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.pdb
+C:\Training\OOP C#\Support Bank\obj\Debug\net5.0\SUPPORT BANK FINAL.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\OOP C#\\Support Bank VS\\SUPPORT BANK FINAL\\SUPPORT BANK FINAL.csproj": {}
+    "C:\\Training\\OOP C#\\Support Bank\\SUPPORT BANK FINAL.csproj": {}
   },
   "projects": {
-    "C:\\Training\\OOP C#\\Support Bank VS\\SUPPORT BANK FINAL\\SUPPORT BANK FINAL.csproj": {
+    "C:\\Training\\OOP C#\\Support Bank\\SUPPORT BANK FINAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\OOP C#\\Support Bank VS\\SUPPORT BANK FINAL\\SUPPORT BANK FINAL.csproj",
+        "projectUniqueName": "C:\\Training\\OOP C#\\Support Bank\\SUPPORT BANK FINAL.csproj",
         "projectName": "SUPPORT BANK FINAL",
-        "projectPath": "C:\\Training\\OOP C#\\Support Bank VS\\SUPPORT BANK FINAL\\SUPPORT BANK FINAL.csproj",
+        "projectPath": "C:\\Training\\OOP C#\\Support Bank\\SUPPORT BANK FINAL.csproj",
         "packagesPath": "C:\\Users\\ilyali\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\OOP C#\\Support Bank VS\\SUPPORT BANK FINAL\\obj\\",
+        "outputPath": "C:\\Training\\OOP C#\\Support Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilyali\\AppData\\Roaming\\NuGet\\NuGet.Config",

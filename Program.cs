@@ -21,7 +21,6 @@ namespace SupportBank
             config.AddTarget("File Logger", target);
             config.LoggingRules.Add(new LoggingRule("*", LogLevel.Debug, target));
             LogManager.Configuration = config;
-            Logger.Info("Hello World");
             var transactions = FileParser.GetTransactions("./support-bank-resources/DodgyTransactions2015.csv");
 
             GetTotalCreditsAndDebits();

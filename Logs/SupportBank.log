@@ -42,3 +42,9 @@
 2021-07-01 19:30:08.0440 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Date', from 'From' to 'To'. Entry has been discarded.
 2021-07-01 19:30:08.0440 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
 2021-07-01 19:30:08.0440 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-01 20:18:11.0775 Info - SupportBank.Program: Hello World
+2021-07-01 20:18:11.1065 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-01 20:18:11.1065 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-01 23:41:10.7005 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.
+2021-07-01 23:41:48.2684 Warn - Support_Bank.Models.FileParser: 'One Cheeseburger' is not a valid amount. On date '01/03/2015', from 'Ben B' to 'Sam N'. Entry has been discarded.
+2021-07-01 23:41:48.2857 Warn - Support_Bank.Models.FileParser: 'Last Thursday' is not a valid Date. Transaction from 'Sarah T' to 'Dan W' with amount '5.42'. Entry has been discarded.

@@ -16,6 +16,7 @@ namespace Support_Bank.Models
             {
                 var path = route;
                 var lines = File.ReadAllLines(path);
+                lines = lines.Skip(1).ToArray();
 
                 return lines
                     .Where(line => IsValidTransaction(line.Split(",")))
