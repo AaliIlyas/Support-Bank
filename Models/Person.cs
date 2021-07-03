@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using NLog;
+using Support_Bank.Models.Finance;
 
 namespace Support_Bank.Models
 {
@@ -17,7 +18,7 @@ namespace Support_Bank.Models
                 
             Name = name;
  
-            var filteredTransactions = transactions.Where(transaction => transaction.From == Name || transaction.To == Name).ToList();
+            var filteredTransactions = transactions.Where(transaction => transaction.FromAccount == Name || transaction.ToAccount == Name).ToList();
 
             Transactions = filteredTransactions;
 
@@ -25,8 +26,8 @@ namespace Support_Bank.Models
 
             foreach (var transaction in Transactions)
             {
-                var isFromThisPerson = transaction.From == Name;
-                var otherPerson = !isFromThisPerson ? transaction.From : transaction.To;
+                var isFromThisPerson = transaction.FromAccount == Name;
+                var otherPerson = !isFromThisPerson ? transaction.FromAccount : transaction.ToAccount;
                 if (!DebitsAndCreditsReport.ContainsKey(otherPerson))
                 {
                     if (isFromThisPerson)
@@ -58,12 +59,12 @@ namespace Support_Bank.Models
         {
             foreach (var transaction in Transactions)
             {
-                if (Name == transaction.From)
+                if (Name == transaction.FromAccount)
                 {
                     Credit += transaction.Amount;
                 }
 
-                if (Name == transaction.To)
+                if (Name == transaction.ToAccount)
                 {
                     Debt += transaction.Amount;
                 }

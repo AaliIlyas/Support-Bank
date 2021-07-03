@@ -6,6 +6,7 @@
 	<ItemGroup>
 		<PackageReference Include="NLog" Version="5.0.0-beta11"/>
 		<PackageReference Include="Json.Net" Version="1.0.33"/>
+		<PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
 	</ItemGroup>
 	<ItemGroup>
 		<Content Include="support-bank-resources/**">

@@ -76,3 +76,4 @@ C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\DodgyTra
 C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2012.xml
 C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2013.json
 C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\support-bank-resources\Transactions2014.csv
+C:\Training\OOP C#\Support Bank\bin\Debug\net5.0\Newtonsoft.Json.dll

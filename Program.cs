@@ -4,6 +4,8 @@ using System;
 using NLog;
 using NLog.Config;
 using NLog.Targets;
+using System.IO;
+using Support_Bank.Models.Finance;
 
 namespace SupportBank
 {
@@ -23,7 +25,7 @@ namespace SupportBank
             LogManager.Configuration = config;
 
             Logger.Debug($"Parsing started {DateTime.Now.ToString("h:mm:ss tt")}.");
-            var transactions = FileParser.GetTransactions("./support-bank-resources/Transactions2014.csv");
+            var transactions = FileParser.GetTransactions("./support-bank-resources/Transactions2013.json");
             Logger.Debug($"Parsing ended {DateTime.Now.ToString("h:mm:ss tt")}");
 
             GetTotalCreditsAndDebits(transactions);
@@ -37,7 +39,7 @@ namespace SupportBank
                 Logger.Info("User has opted to see their own Statement. Printing to console.");
                 foreach (var transaction in person.Transactions)
                 {
-                    Console.WriteLine($"Date: {transaction.Date}, from: {transaction.From}, to: {transaction.To}, reason: {transaction.Narrative}, amount: {transaction.Amount.ToString("C")}");
+                    Console.WriteLine($"Date: {transaction.Date}, from: {transaction.FromAccount}, to: {transaction.ToAccount}, reason: {transaction.Narrative}, amount: {transaction.Amount.ToString("C")}");
                 }
             }
 
@@ -69,14 +71,14 @@ namespace SupportBank
 
                 foreach (var transaction in transactions)
                 {
-                    if (!allNames.Contains(transaction.From))
+                    if (!allNames.Contains(transaction.FromAccount))
                     {
-                        allNames.Add(transaction.From);
+                        allNames.Add(transaction.FromAccount);
                     }
 
-                    if (!allNames.Contains(transaction.To))
+                    if (!allNames.Contains(transaction.ToAccount))
                     {
-                        allNames.Add(transaction.To);
+                        allNames.Add(transaction.ToAccount);
                     }
                 }
 
