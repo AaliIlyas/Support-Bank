@@ -32,7 +32,7 @@ namespace Support_Bank.Models
                 {
                     if (File.Exists(path))
                     {
-                        GetTransactionsFromJson(path);
+                        return GetTransactionsFromJson(path);
                     }
                 }
 
@@ -58,7 +58,7 @@ namespace Support_Bank.Models
                 .Where(transaction => DeserialisedDataChecks(transaction))
                 .Select(transaction => DeserializedTransaction.ConvertToTransaction(transaction))
                 .ToList();
-
+                
             return transactions;
         }
 
