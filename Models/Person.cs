@@ -10,7 +10,7 @@ namespace Support_Bank.Models
         private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         public string Name { get; }
         public List<Transaction> Transactions { get; }
-        public Dictionary<string, double> DebitsAndCreditsReport { get; }
+        public Dictionary<string, double> debtsAndCreditsReport { get; }
         public double Credit { get; private set; }
         public double Debt { get; private set; }
         public Person(string name, List<Transaction> transactions)
@@ -22,32 +22,32 @@ namespace Support_Bank.Models
 
             Transactions = filteredTransactions;
 
-            DebitsAndCreditsReport = new Dictionary<string, double>();
+            debtsAndCreditsReport = new Dictionary<string, double>();
 
             foreach (var transaction in Transactions)
             {
                 var isFromThisPerson = transaction.FromAccount == Name;
                 var otherPerson = !isFromThisPerson ? transaction.FromAccount : transaction.ToAccount;
-                if (!DebitsAndCreditsReport.ContainsKey(otherPerson))
+                if (!debtsAndCreditsReport.ContainsKey(otherPerson))
                 {
                     if (isFromThisPerson)
                     {
-                        DebitsAndCreditsReport.Add(otherPerson, transaction.Amount * -1);
+                        debtsAndCreditsReport.Add(otherPerson, transaction.Amount * -1);
                     }
                     else
                     {
-                        DebitsAndCreditsReport.Add(otherPerson, transaction.Amount);
+                        debtsAndCreditsReport.Add(otherPerson, transaction.Amount);
                     }
                 }
                 else
                 {
                     if (isFromThisPerson)
                     {
-                        DebitsAndCreditsReport[otherPerson] -= transaction.Amount;
+                        debtsAndCreditsReport[otherPerson] -= transaction.Amount;
                     }
                     else
                     {
-                        DebitsAndCreditsReport[otherPerson] += transaction.Amount;
+                        debtsAndCreditsReport[otherPerson] += transaction.Amount;
                     }
                 }
             }
