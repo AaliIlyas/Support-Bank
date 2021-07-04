@@ -27,6 +27,10 @@ namespace Support_Bank.Models
                     {
                         return GetTransactionsFromCsv(path);
                     }
+                    else
+                    {
+                        throw new ArgumentOutOfRangeException("Cannot find file");
+                    }
                 }
 
                 if (json.IsMatch(path))
@@ -34,6 +38,10 @@ namespace Support_Bank.Models
                     if (File.Exists(path))
                     {
                         return GetTransactionsFromJson(path);
+                    }
+                    else
+                    {
+                        throw new ArgumentOutOfRangeException("Cannot find file");
                     }
                 }
 
@@ -43,9 +51,14 @@ namespace Support_Bank.Models
                     {
                         return GetTransactionsFromsXML(path);
                     }
+                    else
+                    {
+                        throw new ArgumentOutOfRangeException("Cannot find file");
+                    }
                 }
 
-                Logger.Debug("Successfully read file");
+                Logger.Fatal("File extension is not accepted, only .csv, .json and .xml are valid. No data obtained.");
+                throw new ArgumentOutOfRangeException("Extension is invalid");
             }
             catch (DirectoryNotFoundException e)
             {
@@ -57,7 +70,6 @@ namespace Support_Bank.Models
                 Logger.Fatal("Cannot find path: " + e);
                 throw;
             }
-            return null;
         }
 
         private static List<Transaction> GetTransactionsFromCsv(string path)
@@ -104,7 +116,6 @@ namespace Support_Bank.Models
             }
             return transactions;
         }
-
 
         private static bool IsValidDeserializedTransaction(DeserializedTransaction transaction)
         {

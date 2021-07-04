@@ -85,7 +85,7 @@ namespace SupportBank
                 foreach (var personName in allNames)
                 {
                     var p = new Person(personName, transactions);
-                    Console.WriteLine(p.Name + ": owes " + p.Credit.ToString("C") + ", is owed: " + p.Debt.ToString("C"));
+                    Console.WriteLine(p.Name + ": owes total: " + p.Credit.ToString("C") + ", is owed total: " + p.Debt.ToString("C"));
                 }
             }
             Logger.Info($"Leaving {System.Reflection.MethodBase.GetCurrentMethod().Name}! It's {DateTime.Now.ToString("h:mm:ss tt")}");

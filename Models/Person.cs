@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using NLog;
 using Support_Bank.Models.Finance;
@@ -57,16 +58,16 @@ namespace Support_Bank.Models
 
         private void CalculateTotals()
         {
-            foreach (var transaction in Transactions)
+            foreach (var entry in debtsAndCreditsReport)
             {
-                if (Name == transaction.FromAccount)
+                if (entry.Value >= 0)
                 {
-                    Credit += transaction.Amount;
+                    Credit += entry.Value;
                 }
 
-                if (Name == transaction.ToAccount)
+                if (entry.Value <= 0)
                 {
-                    Debt += transaction.Amount;
+                    Debt += Math.Abs(entry.Value);
                 }
             }
         }
