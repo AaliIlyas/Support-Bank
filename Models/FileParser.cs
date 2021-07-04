@@ -57,8 +57,8 @@ namespace Support_Bank.Models
                     }
                 }
 
-                Logger.Fatal("File extension is not accepted, only .csv, .json and .xml are valid. No data obtained.");
-                throw new ArgumentOutOfRangeException("Extension is invalid");
+                Logger.Fatal("Invalid Extension");
+                throw new ArgumentOutOfRangeException("File extension is not accepted, only .csv, .json and .xml are valid. No data obtained.");
             }
             catch (DirectoryNotFoundException e)
             {
