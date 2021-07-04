@@ -74,7 +74,7 @@ namespace Support_Bank.Models
         {
             var file = File.ReadAllText(path);
             var transactions = JsonConvert.DeserializeObject<List<DeserializedTransaction>>(file)
-                .Where(transaction => DeserialisedDataChecks(transaction))
+                .Where(transaction => IsValidDeserializedTransaction(transaction))
                 .Select(transaction => DeserializedTransaction.ConvertToTransaction(transaction))
                 .ToList();
 
@@ -106,7 +106,7 @@ namespace Support_Bank.Models
         }
 
 
-        private static bool DeserialisedDataChecks(DeserializedTransaction transaction)
+        private static bool IsValidDeserializedTransaction(DeserializedTransaction transaction)
         {
             var transactionArray = new string[5] { transaction.Date, transaction.FromAccount, transaction.ToAccount, transaction.Narrative, transaction.Amount.ToString() };
             if (!HasEmptyCell(transactionArray) && IsValidTransaction(transactionArray))
@@ -139,10 +139,5 @@ namespace Support_Bank.Models
             }
             return true;
         }
-
-        //private static List<Transaction> ParseXML (string path)
-        //{
-
-        //}
     }
 }

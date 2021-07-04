@@ -1345,3 +1345,8 @@
 2021-07-04 19:36:40.6380 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
 2021-07-04 19:36:40.6380 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
 2021-07-04 19:36:40.6691 Info - SupportBank.Program: Program ending 7:36:40 PM
+2021-07-04 19:43:03.4934 Debug - SupportBank.Program: Parsing started 7:43:03 PM.
+2021-07-04 19:43:03.8726 Debug - SupportBank.Program: Parsing ended 7:43:03 PM
+2021-07-04 19:43:03.8726 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 7:43:03 PM.
+2021-07-04 19:43:05.2515 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-04 19:43:05.2515 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 7:43:05 PM

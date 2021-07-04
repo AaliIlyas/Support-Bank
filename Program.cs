@@ -67,8 +67,6 @@ namespace SupportBank
             if (totalOwes)
             Logger.Info("User has opted to see everyone's Debits and Credits. Printing to console.");
             {
-
-
                 var allNames = new List<string>();
 
                 foreach (var transaction in transactions)
