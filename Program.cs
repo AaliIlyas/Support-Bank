@@ -28,7 +28,7 @@ namespace SupportBank
             var transactions = FileParser.GetTransactions("./support-bank-resources/Transactions2012.xml");
             Logger.Debug($"Parsing ended {DateTime.Now.ToString("h:mm:ss tt")}");
 
-            GetTotalCreditsAnddebts(transactions);
+            GetTotalCreditsAndDebts(transactions);
                  
             var (name, statement, summary) = ConsoleHelper.GetUserResponses();
 
@@ -45,12 +45,12 @@ namespace SupportBank
 
             if (summary)
             {
-                Logger.Info("User has opted to see their own debts and Credits. Printing to console.");
+                Logger.Info("User has opted to see their own Debts and Credits. Printing to console.");
                 if (statement)
                 {
                     Console.WriteLine("----------------------------------");
                 }
-                foreach (var entry in person.debtsAndCreditsReport)
+                foreach (var entry in person.DebtsAndCreditsReport)
                 {
                     Console.WriteLine(entry.Key + ": " + entry.Value.ToString("C"));
                 }
@@ -58,14 +58,14 @@ namespace SupportBank
             Logger.Info($"Program ending {DateTime.Now.ToString("h:mm:ss tt")}");
         }
 
-        private static void GetTotalCreditsAnddebts(List<Transaction> transactions)
+        private static void GetTotalCreditsAndDebts(List<Transaction> transactions)
         {
             Logger.Info($"In {System.Reflection.MethodBase.GetCurrentMethod().Name}! It's {DateTime.Now.ToString("h:mm:ss tt")}.");
             Console.Write("Would you like the totals of what everyone owes or is owed? (y/n) ");
             var totalOwes = Console.ReadLine() == "y";
 
             if (totalOwes)
-            Logger.Info("User has opted to see everyone's debts and Credits. Printing to console.");
+            Logger.Info("User has opted to see everyone's Debts and Credits. Printing to console.");
             {
                 var allNames = new List<string>();
 

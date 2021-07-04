@@ -11,7 +11,7 @@ namespace Support_Bank.Models
         private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         public string Name { get; }
         public List<Transaction> Transactions { get; }
-        public Dictionary<string, double> debtsAndCreditsReport { get; }
+        public Dictionary<string, double> DebtsAndCreditsReport { get; }
         public double Credit { get; private set; }
         public double Debt { get; private set; }
         public Person(string name, List<Transaction> transactions)
@@ -23,32 +23,32 @@ namespace Support_Bank.Models
 
             Transactions = filteredTransactions;
 
-            debtsAndCreditsReport = new Dictionary<string, double>();
+            DebtsAndCreditsReport = new Dictionary<string, double>();
 
             foreach (var transaction in Transactions)
             {
                 var isFromThisPerson = transaction.FromAccount == Name;
                 var otherPerson = !isFromThisPerson ? transaction.FromAccount : transaction.ToAccount;
-                if (!debtsAndCreditsReport.ContainsKey(otherPerson))
+                if (!DebtsAndCreditsReport.ContainsKey(otherPerson))
                 {
                     if (isFromThisPerson)
                     {
-                        debtsAndCreditsReport.Add(otherPerson, transaction.Amount * -1);
+                        DebtsAndCreditsReport.Add(otherPerson, transaction.Amount * -1);
                     }
                     else
                     {
-                        debtsAndCreditsReport.Add(otherPerson, transaction.Amount);
+                        DebtsAndCreditsReport.Add(otherPerson, transaction.Amount);
                     }
                 }
                 else
                 {
                     if (isFromThisPerson)
                     {
-                        debtsAndCreditsReport[otherPerson] -= transaction.Amount;
+                        DebtsAndCreditsReport[otherPerson] -= transaction.Amount;
                     }
                     else
                     {
-                        debtsAndCreditsReport[otherPerson] += transaction.Amount;
+                        DebtsAndCreditsReport[otherPerson] += transaction.Amount;
                     }
                 }
             }
@@ -58,7 +58,7 @@ namespace Support_Bank.Models
 
         private void CalculateTotals()
         {
-            foreach (var entry in debtsAndCreditsReport)
+            foreach (var entry in DebtsAndCreditsReport)
             {
                 if (entry.Value >= 0)
                 {

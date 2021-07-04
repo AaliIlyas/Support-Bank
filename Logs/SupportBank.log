@@ -1269,3 +1269,12 @@
 2021-07-04 20:21:19.7582 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
 2021-07-04 20:21:19.7713 Info - SupportBank.Program: User has opted to see their own debts and Credits. Printing to console.
 2021-07-04 20:21:19.7951 Info - SupportBank.Program: Program ending 8:21:19 PM
+2021-07-04 20:30:18.6290 Debug - SupportBank.Program: Parsing started 8:30:18 PM.
+2021-07-04 20:30:18.7534 Debug - SupportBank.Program: Parsing ended 8:30:18 PM
+2021-07-04 20:30:18.7534 Info - SupportBank.Program: In GetTotalCreditsAndDebts! It's 8:30:18 PM.
+2021-07-04 20:30:19.8952 Info - SupportBank.Program: User has opted to see everyone's Debts and Credits. Printing to console.
+2021-07-04 20:30:19.8952 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebts! It's 8:30:19 PM
+2021-07-04 20:30:23.8640 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-04 20:30:23.8640 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-04 20:30:23.8640 Info - SupportBank.Program: User has opted to see their own Debts and Credits. Printing to console.
+2021-07-04 20:30:23.8815 Info - SupportBank.Program: Program ending 8:30:23 PM
