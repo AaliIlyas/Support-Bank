@@ -2,7 +2,6 @@
 
 namespace Support_Bank.Models.Finance
 {
-    [Serializable]
     public class Transaction
     {
         public string Date { get; }

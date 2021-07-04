@@ -25,7 +25,7 @@ namespace SupportBank
             LogManager.Configuration = config;
 
             Logger.Debug($"Parsing started {DateTime.Now.ToString("h:mm:ss tt")}.");
-            var transactions = FileParser.GetTransactions("./support-bank-resources/Transactions2013.json");
+            var transactions = FileParser.GetTransactions("./support-bank-resources/Transactions2012.xml");
             Logger.Debug($"Parsing ended {DateTime.Now.ToString("h:mm:ss tt")}");
 
             GetTotalCreditsAndDebits(transactions);
@@ -67,6 +67,8 @@ namespace SupportBank
             if (totalOwes)
             Logger.Info("User has opted to see everyone's Debits and Credits. Printing to console.");
             {
+
+
                 var allNames = new List<string>();
 
                 foreach (var transaction in transactions)
