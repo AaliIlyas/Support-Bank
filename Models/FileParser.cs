@@ -41,26 +41,7 @@ namespace Support_Bank.Models
                 {
                     if (File.Exists(path))
                     {
-                        var file = new XmlDocument();
-                        file.Load(path);
-                        var nodes = file.SelectNodes("//SupportTransaction");
-
-                        var transactions = new List<Transaction> {};
-                        foreach (XmlNode node in nodes)
-                        {
-                            var serialDate = node.Attributes["Date"].Value;
-
-                            var Date = DateTime.FromOADate(int.Parse(serialDate)).ToString("dd/MM/yyyy");
-                            var Narrative = node.ChildNodes[0].InnerText;
-                            var Amount = node.ChildNodes[1].InnerText;
-                            var From = node.ChildNodes[2].ChildNodes[0].InnerText;
-                            var To = node.ChildNodes[2].ChildNodes[1].InnerText;
-
-                            var XmlProperties = new string[5] { Date, From, To, Narrative, Amount };
-                            var transaction = new Transaction(XmlProperties);
-                            transactions.Add(transaction);
-                        }
-                        return transactions;
+                        return GetTransactionsFromsXML(path);
                     }
                 }
 
@@ -79,6 +60,16 @@ namespace Support_Bank.Models
             return null;
         }
 
+        private static List<Transaction> GetTransactionsFromCsv(string path)
+        {
+            var lines = File.ReadAllLines(path);
+            return lines
+                .Where(line => !HasEmptyCell(line.Split(",")))
+                .Where(line => IsValidTransaction(line.Split(",")))
+                .Select(line => new Transaction(line.Split(",")))
+                .ToList();
+        }
+
         private static List<Transaction> GetTransactionsFromJson(string path)
         {
             var file = File.ReadAllText(path);
@@ -90,15 +81,30 @@ namespace Support_Bank.Models
             return transactions;
         }
 
-        private static List<Transaction> GetTransactionsFromCsv(string path)
+        private static List<Transaction> GetTransactionsFromsXML(string path)
         {
-            var lines = File.ReadAllLines(path);
-            return lines
-                .Where(line => !HasEmptyCell(line.Split(",")))
-                .Where(line => IsValidTransaction(line.Split(",")))
-                .Select(line => new Transaction(line.Split(",")))
-                .ToList();
+            var file = new XmlDocument();
+            file.Load(path);
+            var nodes = file.SelectNodes("//SupportTransaction");
+
+            var transactions = new List<Transaction> { };
+            foreach (XmlNode node in nodes)
+            {
+                var serialDate = node.Attributes["Date"].Value;
+
+                var Date = DateTime.FromOADate(int.Parse(serialDate)).ToString("dd/MM/yyyy");
+                var Narrative = node.ChildNodes[0].InnerText;
+                var Amount = node.ChildNodes[1].InnerText;
+                var From = node.ChildNodes[2].ChildNodes[0].InnerText;
+                var To = node.ChildNodes[2].ChildNodes[1].InnerText;
+
+                var XmlProperties = new string[5] { Date, From, To, Narrative, Amount };
+                var transaction = new Transaction(XmlProperties);
+                transactions.Add(transaction);
+            }
+            return transactions;
         }
+
 
         private static bool DeserialisedDataChecks(DeserializedTransaction transaction)
         {

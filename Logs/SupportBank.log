@@ -1318,3 +1318,30 @@
 2021-07-04 19:32:05.2011 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
 2021-07-04 19:32:05.2136 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
 2021-07-04 19:32:05.2341 Info - SupportBank.Program: Program ending 7:32:05 PM
+2021-07-04 19:34:41.8452 Debug - SupportBank.Program: Parsing started 7:34:41 PM.
+2021-07-04 19:34:41.9595 Debug - SupportBank.Program: Parsing ended 7:34:41 PM
+2021-07-04 19:34:41.9595 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 7:34:41 PM.
+2021-07-04 19:34:43.2810 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-04 19:34:43.2810 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 7:34:43 PM
+2021-07-04 19:34:46.7339 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-04 19:34:46.7339 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-04 19:34:46.7339 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
+2021-07-04 19:34:46.7668 Info - SupportBank.Program: Program ending 7:34:46 PM
+2021-07-04 19:35:43.7630 Debug - SupportBank.Program: Parsing started 7:35:43 PM.
+2021-07-04 19:35:43.8681 Debug - SupportBank.Program: Parsing ended 7:35:43 PM
+2021-07-04 19:35:43.8681 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 7:35:43 PM.
+2021-07-04 19:36:18.6384 Debug - SupportBank.Program: Parsing started 7:36:18 PM.
+2021-07-04 19:36:18.7184 Warn - Support_Bank.Models.FileParser: 'Amount' is not a valid amount. On date 'Amount', from 'From' to 'To'. Entry has been discarded.
+2021-07-04 19:36:18.7306 Debug - SupportBank.Program: Parsing ended 7:36:18 PM
+2021-07-04 19:36:18.7306 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 7:36:18 PM.
+2021-07-04 19:36:20.5064 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-04 19:36:20.5151 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 7:36:20 PM
+2021-07-04 19:36:35.7334 Debug - SupportBank.Program: Parsing started 7:36:35 PM.
+2021-07-04 19:36:36.1482 Debug - SupportBank.Program: Parsing ended 7:36:36 PM
+2021-07-04 19:36:36.1482 Info - SupportBank.Program: In GetTotalCreditsAndDebits! It's 7:36:36 PM.
+2021-07-04 19:36:37.2871 Info - SupportBank.Program: User has opted to see everyone's Debits and Credits. Printing to console.
+2021-07-04 19:36:37.2952 Info - SupportBank.Program: Leaving GetTotalCreditsAndDebits! It's 7:36:37 PM
+2021-07-04 19:36:40.6380 Info - Support_Bank.Models.ConsoleHelper: Received user responses
+2021-07-04 19:36:40.6380 Info - SupportBank.Program: User has opted to see their own Statement. Printing to console.
+2021-07-04 19:36:40.6380 Info - SupportBank.Program: User has opted to see their own Debits and Credits. Printing to console.
+2021-07-04 19:36:40.6691 Info - SupportBank.Program: Program ending 7:36:40 PM
